@@ -28,7 +28,7 @@ Este script é puramente **educacional**. Ele foi criado para demonstrar vulnera
 
 2. Navegue até o diretório do projeto:
     ```bash
-    cd shadownet
+    cd ShadowNet
     ```
 
 3. Execute o script:
