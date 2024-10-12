@@ -31,14 +31,19 @@ Este script é puramente **educacional**. Ele foi criado para demonstrar vulnera
     cd ShadowNet
     ```
 
-3. Execute o script:
+3. Dê as permissões:
+    ```bash
+    sudo chmod +x shadownet.py
+    ```
+
+4. Execute o script:
     ```bash
     python shadownet.py
     ou
     py shadownet.py
     ```
 
-4. Assista as camadas de segurança se desfazerem...
+5. Assista as camadas de segurança se desfazerem...
 
 ---
 
