@@ -1,0 +1,23 @@
+AQUI COLOQUE SUA WORDLIST
+
+cachorro
+gato
+1
+12
+123
+1234
+12345
+123456
+1234567
+12345678
+123456789
+1234567890
+bola
+astronauta
+avestruz
+teste
+mariana
+juventude
+vacilao
+canalha
+astronauta
